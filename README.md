@@ -1,7 +1,7 @@
 # AMRIT
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-A.M.R.I.T (Accessible Medical Records vis Integrated technology) is a digital health platform initially developed by Piramal Swasthya Management Research Institute (PSMRI). It connects beneficiaries, health facilities & the health workforce in an integrated ecosystem through technology. AMRIT is leveraged by multiple Health and Wellness centres across states in India with services such as 104 helpline, 1097 HIV helpline and telemedicine.
+A.M.R.I.T (Accessible Medical Records vis Integrated technology) is an Electronic Health Record Platform developed by Piramal Swasthya Management Research Institute (PSMRI). Developed on FOSS technology , AMRIT is compliant with ABDM and Clinical Standards and ensures interoperability across other eco-system solutions.It connects beneficiaries, health facilities & the health workforce in an integrated ecosystem through technology. AMRIT is leveraged across Primary Healthcare in India with technology solutions for as Ayushman Arogya Mandir(AAM), Mobile Medical Units(MMUs),104 helpline, 1097 HIV helpline and telemedicine.
 
 This repository maintains the documentation framework for AMRIT project. Built using [MkDocs](https://www.mkdocs.org/) and the static pages are written as markdown files.
 
